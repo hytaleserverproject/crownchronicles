@@ -7,7 +7,7 @@ description: An in-development Hytale Server
 <section class="hero" style="overflow: hidden;">
 {% include particles.html %}
     <div class="text-container">
-		<h2 class="editable">Welcome to {{ site.url }}</h2>
+		<h2 class="editable">Welcome to</h2>
         <h1 class="editable"><strong>Crown Chronicles</strong></h1>
         <p class="subtext editable">A new in-development Hytale server</p>
         <div class="cta button alt"><a href="/sign-up/">Join Our Discord!</a></div>
