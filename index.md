@@ -1,5 +1,6 @@
 --- 
 title: Crown Chronicles 
+layout: default
 description: An in-development Hytale Server 
 ---
 
@@ -66,7 +67,7 @@ description: An in-development Hytale Server
     </section> -->
 
     <section class="bottom-cta" style="z-index: 999; overflow: hidden;">
-        <h2 class="editable"><strong>Let's Do This!</h2>
+        <h2 class="editable"><strong>Let's Do This!</strong></h2>
                 <div class="button alt"><a href="#">Join our Discord!</a></div>
     </section>
 </div>
