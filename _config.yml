@@ -10,8 +10,4 @@ disqus_shortname:
 
 timezone: Etc/UTC
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENCE
+exclude: [vendor]
