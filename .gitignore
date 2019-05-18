@@ -9,5 +9,4 @@ _site/
 .DS_Store
 .AppleDouble
 .LSOverride
-Gemfile.lock
 _site/404.html
